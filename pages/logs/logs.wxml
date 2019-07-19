@@ -1,0 +1,5 @@
+<!--logs.wxml-->
+<view class="container log-list">
+  {{my.age}}
+  <text bindtap="changeName">修改年龄</text>
+</view>
